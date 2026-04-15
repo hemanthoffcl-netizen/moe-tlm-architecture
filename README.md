@@ -1,7 +1,7 @@
 # MoE-TLM: A Neuro-Symbolic Routing Architecture for Domain-Specialized Micro-Models
 
 **Author:** Hemanth K  
-**Affiliation:** Independent Researcher, Tamil Nadu, India
+**Affiliation:** Independent Researcher
 
 ---
 
